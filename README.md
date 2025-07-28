@@ -23,5 +23,5 @@ A minimal and responsive **To-Do List / Task Manager** web application that lets
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Krithika1102/task-manager-app.git
-   cd task-manager-app
+   git clone https://github.com/Krithika1102/To-Do-List.git
+   cd To-Do-List
