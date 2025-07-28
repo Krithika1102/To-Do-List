@@ -10,14 +10,6 @@ A minimal and responsive **To-Do List / Task Manager** web application that lets
 - 💾 **Persistent Storage**: Tasks are saved in **localStorage** so your data doesn't disappear on refresh.
 - 📱 **Responsive Design**: Mobile-friendly layout that adapts to all screen sizes.
 
----
-
-## 📸 Demo Screenshots
-
-| Desktop View ![Desktop Screenshot](/Demo.png)
-
-
-
 
 ## 🛠️ Tech Stack
 
@@ -31,5 +23,5 @@ A minimal and responsive **To-Do List / Task Manager** web application that lets
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/task-manager-app.git
+   git clone https://github.com/Krithika1102/task-manager-app.git
    cd task-manager-app
