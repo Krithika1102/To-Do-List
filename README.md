@@ -12,7 +12,7 @@ A minimal and responsive **To-Do List / Task Manager** web application that lets
 
 ## 📸 Desktop View
 
-![Screenshot of the To-Do App](./assets/image.png)
+![Screenshot of the To-Do App](./image.png)
 
 
 ## 🛠️ Tech Stack
