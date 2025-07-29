@@ -10,6 +10,10 @@ A minimal and responsive **To-Do List / Task Manager** web application that lets
 - 💾 **Persistent Storage**: Tasks are saved in **localStorage** so your data doesn't disappear on refresh.
 - 📱 **Responsive Design**: Mobile-friendly layout that adapts to all screen sizes.
 
+## 📸 Desktop View
+
+![Screenshot of the To-Do App](./assets/image.png)
+
 
 ## 🛠️ Tech Stack
 
